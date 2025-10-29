@@ -1,5 +1,3 @@
-import "./globals.css";
-
 export const metadata = {
   title: "Home - Nicole Lash",
   description: "Site para agendar um horario!",
