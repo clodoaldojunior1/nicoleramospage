@@ -1,4 +1,4 @@
 *LANDING PAGE - NICOLE RAMOS LASH*
 
-Inicio do projeto:
-- Reset do projeto.
+Inicio do projeto feito em: NextJs + MUI:
+- Projeto desenvolvido com internacionalização.
